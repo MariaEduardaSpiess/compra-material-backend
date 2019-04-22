@@ -10,3 +10,7 @@ Para rodar esse projeto siga os passos abaixo:
 - importe-o no eclipse ou netbeans como projeto maven
 - rode a classe 'TesteSeniorApplication'
 - O start da aplicação já fará a criação do banco de dados
+
+## TroubleShooting
+
+Se ocorrer erro de conexão do frontend com o backend, verifique as portas configuradas.
